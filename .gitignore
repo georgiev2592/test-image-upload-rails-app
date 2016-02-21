@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+*.sqlite3
+
+db/schema.rb
+
